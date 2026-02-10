@@ -31,6 +31,11 @@ img {
     height: auto;
     border-radius: 5px; 
 }
+.photoo {
+    width: 100%; 
+    height: auto;
+    border-radius: 5px; 
+}
 
 .header-card {
     background-image: url(Images/Vague\ Surf.png);
