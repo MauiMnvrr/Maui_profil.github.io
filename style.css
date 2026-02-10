@@ -31,31 +31,34 @@ img {
     height: auto;
     border-radius: 5px; 
 }
-.photoo {
-    width: 100%; 
-    height: auto;
-    border-radius: 5px; 
-}
+
 .header-card {
-    background-image: url(Images/Sharks.jpg);
+    background-image: url(Images/Vague\ Surf.png);
     background-size: cover;
     background-position: center;
     text-align: center;
+    padding-top: 120px; 
     position: relative;
-    height: 400px;
-    padding-top: 200px;
-    color: #ffffff;
+    height: 300px;
+    padding-top: 250px;
 }
 
 .profile-picture {
-    width: 150px;
+    width: 200px;
     border-radius: 50%;
-    border: 5px solid rgba(255, 255, 255, 0.527);
-    background: #3f3f3fc5;
+    border: 5px solid white;
+    background: #eee;
     position: absolute;
     top: 50px;
     left: 50%;
     transform: translateX(-50%); 
+}
+
+.school-logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px;
 }
 
 
